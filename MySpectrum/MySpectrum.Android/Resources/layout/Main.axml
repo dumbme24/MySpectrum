@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+  <Space
+android:layout_width="1dp"
+android:layout_height="50dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextFirstName"
+        android:hint="First Name"
+        android:margin="0, 20, 15, 5"/>
+  
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextLastName"
+        android:hint="Last Name" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextGender"
+        android:hint="Gender" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextAge"
+        android:hint="Age" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextUserName"
+        android:hint="User Name" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EditTextUserPassworrd"
+        android:hint="User Passworrd" />
+    <Space
+      android:layout_width="1dp"
+      android:layout_height="50dp"/>
+ 
+    <Button xmlns:tools="http://schemas.android.com/tools"
+        android:text="Save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ButtonSave"
+        android:hint="Save"
+        tools:text="Save" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+MySpectrum.Droid.MainActivity, MySpectrum.Android;md580798a2b3757c2f922ef9f40c6309d15.MainActivity
+MySpectrum.Droid.MainActivity, MySpectrum.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md580798a2b3757c2f922ef9f40c6309d15.MainActivity
+MySpectrum.Droid.MainActivity;md580798a2b3757c2f922ef9f40c6309d15.MainActivity
+myspectrum.droid.MainActivity;md580798a2b3757c2f922ef9f40c6309d15.MainActivity
+MySpectrum.Droid.UserDetailsActivity, MySpectrum.Android;md580798a2b3757c2f922ef9f40c6309d15.UserDetailsActivity
+MySpectrum.Droid.UserDetailsActivity, MySpectrum.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md580798a2b3757c2f922ef9f40c6309d15.UserDetailsActivity
+MySpectrum.Droid.UserDetailsActivity;md580798a2b3757c2f922ef9f40c6309d15.UserDetailsActivity
+myspectrum.droid.UserDetailsActivity;md580798a2b3757c2f922ef9f40c6309d15.UserDetailsActivity
